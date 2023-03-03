@@ -1,0 +1,5 @@
+// rename to config.ts and move to config folder
+
+const baseURL = { baseURL: "https://reqres.in/api" };
+
+export default baseURL;
